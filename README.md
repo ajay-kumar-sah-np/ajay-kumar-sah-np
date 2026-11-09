@@ -1,16 +1,16 @@
 # Hi there, I'm Ajay Kumar Sah 👋 
 
-### Java Backend Engineer | Cloud-Native Deployment | AI-Driven Automation
+### Full Stack Engineer | Java Ecosystem & Web Apps | AI-Driven Automation
 
-I am a **Java Backend Engineer with 3+ years of experience** specializing in building scalable, high-performance microservices, event-driven architectures, and robust RESTful APIs. I actively work at the intersection of enterprise backend development and Generative AI, engineering autonomous coding agents to optimize software delivery pipelines.
+I am a **Full Stack Engineer with 3+ years of experience** specializing in building reliable, high-performance web applications, scalable backend microservices, and modern user experiences. I work extensively across both ends of the stack—combining rigorous Java/Spring Boot frameworks and Javascript ecosystems with cloud-native AWS deployments and autonomous AI automation.
 
 ---
 
 ### 🚀 What I Do
-- **Backend Architecture:** Crafting reliable distributed systems with Core Java, Spring Boot 3.x, and SOLID design principles.
-- **Event-Driven Messaging:** Decoupling services and driving high throughput via Apache Kafka and ActiveMQ.
-- **Cloud & DevOps:** Architecting fault-tolerant, containerized deployments on AWS using Kubernetes (EKS), Docker, and automated CI/CD pipelines.
-- **AI-Driven Engineering:** Designing context-hydration engines and autonomous LLM orchestration platforms for production code generation and review.
+- **Full-Stack Development:** Architecting end-to-end web applications featuring seamless frontend UI integrations and secure, stateless backend APIs.
+- **Backend & Microservices:** Crafting high-throughput distributed systems with Core Java, Spring Boot 3.x, and SOLID design principles.
+- **Event-Driven Messaging:** Decoupling services and driving high system resilience via Apache Kafka and ActiveMQ.
+- **Cloud & DevOps:** Containerizing, deploying, and maintaining fault-tolerant architectures using AWS (EKS, EC2, S3), Docker, and automated CI/CD pipelines.
 
 ---
 
@@ -18,30 +18,30 @@ I am a **Java Backend Engineer with 3+ years of experience** specializing in bui
 
 <table>
   <tr>
-    <td align="center" width="25%"><strong>Languages</strong></td>
-    <td align="center" width="25%"><strong>Java Ecosystem</strong></td>
+    <td align="center" width="25%"><strong>Frontend & Languages</strong></td>
+    <td align="center" width="25%"><strong>Backend Ecosystem</strong></td>
     <td align="center" width="25%"><strong>Cloud & DevOps</strong></td>
     <td align="center" width="25%"><strong>Messaging & DBs</strong></td>
   </tr>
   <tr>
     <td valign="top">
-      • Java (8/11/17)<br/>
-      • SQL<br/>
-      • Python<br/>
-      • Bash / C
+      • JavaScript (ES6+)<br/>
+      • Angular<br/>
+      • HTML5 / CSS3<br/>
+      • Python / SQL / Bash
     </td>
     <td valign="top">
-      • Spring Boot 3.x<br/>
-      • Spring Security & JPA<br/>
-      • Hibernate ORM<br/>
-      • Multithreading / AOP<br/>
-      • JUnit / TDD
+      • Spring Boot 3.x / MVC<br/>
+      • Spring Security (JWT)<br/>
+      • Spring Data JPA / Hibernate<br/>
+      • Multithreading & AOP<br/>
+      • JUnit / Mockito / TDD
     </td>
     <td valign="top">
       • AWS (EKS, EC2, S3, RDS)<br/>
       • Docker & Kubernetes<br/>
       • Jenkins & GitHub Actions<br/>
-      • Maven CI/CD
+      • Maven Build Pipelines
     </td>
     <td valign="top">
       • Apache Kafka<br/>
@@ -51,51 +51,49 @@ I am a **Java Backend Engineer with 3+ years of experience** specializing in bui
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2"><strong>AI & Generative AI</strong></td>
+    <td align="center" colspan="2"><strong>AI & Generative AI Engineering</strong></td>
     <td align="center" colspan="2"><strong>Observability & Domains</strong></td>
   </tr>
   <tr>
     <td valign="top" colspan="2">
       • LLM-based Coding Agents & Orchestration<br/>
-      • Prompt & Context Engineering (92% token reduction)<br/>
+      • Context Engineering (92% token footprint reduction)<br/>
       • MCP (Model Context Protocol) tooling & AI Code Review
     </td>
     <td valign="top" colspan="2">
       • Dynatrace / Spring Boot Actuator (MTTR Reduction)<br/>
       • Healthcare Interoperability (FHIR R4.0.1, HL7, NHCX)<br/>
-      • FinTech (Claims Processing Pipelines)
+      • FinTech & Claims Processing Pipelines
     </td>
   </tr>
 </table>
 
 ---
 
-### 📂 Featured Projects
-
-#### 🤖 Autonomous AI-Driven CI/CD Platform
-*An automated engineering pipeline that harnesses LLM-based coding agents to independently implement code modifications directly into GitHub repositories.*
-- **Backend & Cloud:** Run on self-hosted GitHub Actions runners hosted on AWS EC2, triggered dynamically through an outbound poll-based architecture to bypass enterprise firewall boundaries.
-- **Context Hydration:** Built a custom Python context-hydration service assembling minimal, task-scoped repository footprints, achieving a **92% token footprint reduction** while scaling agent generation precision.
-- **Cost Efficiency:** Saved **90% on cloud compute** expenditures by designing an event-driven system: an EventBridge-scheduled AWS Lambda poller scales up EC2 nodes on-demand, combined with an idle watchdog script auto-stopping VMs after 15 minutes.
+### 📂 Featured Full-Stack Projects
 
 #### 🏢 Real Estate Management Platform — [vamikahomz.com](https://vamikahomz.com)
-*A production-ready property discovery and infrastructure management platform built to scale end-to-end administration workflows.*
-- **Architecture:** Engineered RESTful backend microservices mapping real estate inventory records, role permissions, and consumer inquiry touchpoints.
-- **Security:** Hardened endpoint interfaces implementing stateless JSON Web Token (JWT) authentication schemes and Role-Based Access Control (RBAC) layers via Spring Security.
-- **Infrastructure:** Hosted end-to-end on AWS EC2 nodes hooked into isolated AWS RDS instance layers (PostgreSQL) and Amazon S3 buckets for unstructured asset attachments.
-- **Optimization:** Maximize backend execution times by introducing customized HikariCP database pool thresholds alongside optimized indexing policies.
+*A production-grade, end-to-end property discovery and management web application built to scale administration and user workflows.*
+- **Frontend & Interface:** Built responsive frontend components handling dynamic property listings, robust user access portals, and customer inquiry pipelines.
+- **Secure Backend:** Hardened all system endpoints using stateless JSON Web Token (JWT) authentication and Role-Based Access Control (RBAC) via Spring Security.
+- **Database & Performance:** Maximized application throughput under heavy search criteria by leveraging HikariCP connection pooling and highly optimized SQL query strategies.
+- **Cloud Infrastructure:** Fully deployed onto AWS utilizing EC2, RDS (PostgreSQL) for transactional data, and Amazon S3 for user attachment uploads.
+
+#### 🤖 Autonomous AI-Driven CI/CD Platform
+*An automated engineering pipeline utilizing LLM-based agents to independently write, test, and package application modifications.*
+- **Context Hydration Engine:** Engineered a Python context assembler providing minimal, task-scoped codebase snapshots, cutting token usage by **92%** while improving agent generation accuracy.
+- **Event-Driven Cost Saving:** Slashed cloud computing bills by **90%** by building an on-demand system via EventBridge-scheduled AWS Lambda pollers that spin up/down self-hosted EC2 runners on demand.
 
 ---
 
 ### 📈 Impact Highlights
-- **Digit TECH-TITANS Award Winner (2024):** Recognized company-wide for technical ownership and engineering excellence.
-- **Latency Reduction:** Migrated high-volume enterprise claims systems from synchronous REST to Kafka, slashing latency by **40%+**.
-- **Production Interoperability:** Engineered real-time bi-directional messaging pipelines compliant with national healthcare interchange standards (FHIR R4.0.1, HL7, NHCX government gateway).
+- **Digit TECH-TITANS Award Winner (2024):** Recognized company-wide for outstanding technical ownership and full-stack engineering excellence.
+- **Latency Optimization:** Swapped legacy synchronous configurations for a Kafka-based event-driven processing model, cutting end-to-end latency by **40%+**.
+- **Enterprise Engineering:** Developed and deployed secure, production-ready RESTful interfaces handling complex, bi-directional national healthcare data transfers (FHIR R4.0.1/HL7).
 
 ---
 
 ### 🌐 Connect With Me
-
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/ajay-kumar-sah-7305b6197) 
 [![Email](https://shields.io)](mailto:sahajay1000@gmail.com)
 
